@@ -1,0 +1,20 @@
+
+---
+
+## Introduction
+
+The role of a System Analyst is essential in today’s technology-driven world. This chapter introduces the field of systems analysis and design, focusing on its importance and evolution over time.
+
+### Role of a System Analyst
+
+1. **Understanding Existing Systems**: System Analysts study current systems to see how they work and identify their strengths and weaknesses.
+
+2. **Identifying Problems and Opportunities**: They look for issues that reduce efficiency and find opportunities for improvement.
+
+3. **Designing Solutions**: After identifying problems, System Analysts create solutions to enhance or redesign systems.
+
+4. **Ensuring Alignment with Business Goals**: They ensure that their solutions support the organization’s overall objectives.
+
+
+---
+
