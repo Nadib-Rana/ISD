@@ -1,2 +1,2 @@
 ### Outline
--Six Source of software 
+-Six Sources of software 
