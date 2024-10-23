@@ -1,3 +1,5 @@
 ### Outline
 - Six Sources of software 
-- Outsourcing 
+- Outsourcing
+- Enterprise Solution Software
+- Off-the-shall
