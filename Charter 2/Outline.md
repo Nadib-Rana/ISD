@@ -1,3 +1,3 @@
 ### Outline
--Six Sources of software 
+- Six Sources of software 
 - Outsourcing 
