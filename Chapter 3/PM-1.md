@@ -12,7 +12,23 @@
      - **Project Initiation Plan**: Outline initial activities, including timelines and key deliverables for the starting phase.
      - **Management Procedures**: Define procedures for communication, decision-making, and managing project changes.
      - **Project Management Environment and Workbook**: Set up tools, documentation standards, and a central location for project files.
-     - **Project Charter**: Document project objectives, stakeholders, scope, and approval to proceed with planning. 
+     - **Project Charter**: Document project objectives, stakeholders, scope, and approval to proceed with planning.
+    
+     - Title and authorization date
+
+Project manager name and contact information
+
+Customer name and contact information
+
+Project start and completion dates
+
+Key stakeholders, roles, responsibilities
+
+Project objectives and description
+
+Key assumptions
+
+Signatures of stakeholders
 
 
 ### Example: CRM Software Development Project
