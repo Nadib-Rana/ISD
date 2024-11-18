@@ -3,9 +3,9 @@
 
 
 ### 6. Provide an IS based scenario and identify the following terms
-**a. Intangible benefit, Tangible benefit**.
-**b. Intangible cost, Tangible cost**.
-**c. Fixed cost and Variable cost for both one time cost, recurring cost**
+- **a. Intangible benefit, Tangible benefit** 
+- **b. Intangible cost, Tangible cost**
+- **c. Fixed cost and Variable cost for both one time cost, recurring cost**
 
 
 A company decides to implement a CRM system to improve customer interactions, sales tracking, and overall business efficiency.  
